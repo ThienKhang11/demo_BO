@@ -1,0 +1,34 @@
+Seasoning : gia vị 
+Today's specials : món đặc biệt của hôm nay
+Main course/dishes: Món chính
+Entrée (ontrèy)
+Catering Services: Dịch vụ cung ứng đồ ăn = restaurant
+Ingredient: nguyên liệu
+
+
+
+Git là gì? 
+
+- Ra đời năm 2005 
+- Toàn bộ code và history được lưu trữ trên máy người dùng 
+- 3 khái niệm quan trọng: 
++ repo: được coi là một dự án và lưu toàn bộ source code, có rất nhiều commit
++ commit: Sau khi tác động vào code (thêm file, xóa file, sửa file) sẽ được lưu vào commit từ đó có thể truy ra ai là người 
+đã sửa file sửa như thế nào ... 
++ branch: Muốn tách nhánh code master thành nhiều nhánh để không lẫn lộn nhau giữa nhánh mới và nhánh cũ gọi là 
+branch
+
+github là gì? 
+
+- Dịch vụ lưu trữ Git Repository
+Các lệnh git cơ bản 
+
+- git init : Tạo ra một Repository trong máy 
+- git clone: Lấy từ trên mạng về 
+- git pull:  Đồng bộ từ trên mạng về máy
+
+- git add và git commit: thêm và sửa file vào các repository trên máy 
+- git push: đồng bộ Repon từ máy lên mạng
+
+- git log và git status: check xem trạng thái ntn
+- git log - decorate - graph - oneline
